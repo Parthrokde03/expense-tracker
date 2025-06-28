@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2025-06-28",
+        "time": "18:26:15",
+        "type": "Income",
+        "amount": 1000.0,
+        "description": "Salary"
+    },
+    {
+        "date": "2025-06-28",
+        "time": "18:26:24",
+        "type": "Expense",
+        "amount": 100.0,
+        "description": "breakfast"
+    }
+]
